@@ -1,4 +1,4 @@
 PhoneBook
 =========
 
-PhoneBook Test
+Details in ReadMe.docx
