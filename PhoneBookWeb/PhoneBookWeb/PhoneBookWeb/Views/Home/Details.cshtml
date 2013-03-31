@@ -1,0 +1,75 @@
+﻿@model PhoneBookWeb.Model.PhoneBookRecord
+
+@section Header
+{
+    @PhoneBookWeb.Resources.Resources.ContactInfo
+}
+@section Home
+{
+    @Html.ActionLink(@PhoneBookWeb.Resources.Resources.Home, "Index")
+}
+@section DetailHeader
+{
+    <h2>
+         @Html.DisplayFor(model => model.Man.Name)
+    </h2>
+}
+@section About
+{
+    @Html.ActionLink(@PhoneBookWeb.Resources.Resources.About, "About", "Home")
+}
+
+<fieldset>
+    <br />
+    <div id="display-field">
+        <b>
+            @Html.LabelFor(model => model.Man.LastName)
+        </b>
+        @Html.DisplayFor(model => model.Man.LastName)
+    </div>
+    <div id="display-field"> 
+        <b>
+            @Html.LabelFor(model => model.Man.FirstName) 
+        </b>
+        @Html.DisplayFor(model => model.Man.FirstName)
+    </div>
+    <div id="display-field"> 
+        <b>
+            @Html.LabelFor(model => model.Man.MiddleName) 
+        </b>
+        @Html.DisplayFor(model => model.Man.MiddleName)
+    </div>
+    <div id="display-field"> 
+        <b>
+            @Html.LabelFor(model => model.Man.BirthDate)
+        </b> 
+        @Html.DisplayFor(model => model.Man.BirthDate)
+    </div>
+    <div id="display-field">
+         <b>
+            @Html.LabelFor(model => model.Note) 
+         </b>
+         @Html.DisplayFor(model => model.Note)
+    </div>
+    <div id="display-field">
+        <b>
+            @Html.LabelFor(model => model.Phones)
+        </b>
+        <br />
+        @foreach (PhoneBookWeb.Model.Phone phone in Model.Phones)
+        {
+            <li>
+                @Html.Label(phone.TypeName)
+                <br />
+                <a>
+                @Html.Label(phone.Number)
+                </a>
+            </li>
+        }
+    </div>
+
+
+</fieldset>
+<p>
+    @Html.ActionLink(@PhoneBookWeb.Resources.Resources.Home, "Index")
+</p>

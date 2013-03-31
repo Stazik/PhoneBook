@@ -1,0 +1,117 @@
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\PhoneBookWeb.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\PhoneBookWeb.pdb
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Antlr3.Runtime.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\EntityFramework.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Newtonsoft.Json.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.Formatting.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.WebRequest.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.WebHost.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Mvc.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Optimization.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Providers.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Razor.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Deployment.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Razor.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\WebGrease.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\EntityFramework.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Newtonsoft.Json.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.Formatting.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.WebRequest.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.WebHost.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Mvc.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Razor.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Deployment.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Razor.xml
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.Resources.resources
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\GenerateResource.read.1.tlog
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\GenerateResource.write.1.tlog
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.dll
+C:\VS\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.pdb
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\PhoneBookWeb.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\PhoneBookWeb.pdb
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Antlr3.Runtime.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\EntityFramework.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Newtonsoft.Json.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.Formatting.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.WebRequest.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.WebHost.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Mvc.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Optimization.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Providers.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Razor.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Deployment.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Razor.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\WebGrease.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\EntityFramework.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Newtonsoft.Json.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.Formatting.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.WebRequest.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.WebHost.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Mvc.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Razor.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Deployment.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Razor.xml
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\GenerateResource.read.1.tlog
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\GenerateResource.write.1.tlog
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.pdb
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.Resources.Resources.resources
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.Resources.Resources.en-us.resources
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\en-us\PhoneBookWeb.resources.dll
+C:\VS\Новая папка\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\en-us\PhoneBookWeb.resources.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.Resources.Resources.en-us.resources
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\GenerateResource.read.1.tlog
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\GenerateResource.write.1.tlog
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\PhoneBookWeb.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\PhoneBookWeb.pdb
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\en-us\PhoneBookWeb.resources.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Antlr3.Runtime.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\EntityFramework.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Newtonsoft.Json.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.Formatting.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.WebRequest.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.WebHost.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Mvc.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Optimization.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Providers.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Razor.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Deployment.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Razor.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\WebGrease.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\EntityFramework.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\Newtonsoft.Json.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.Formatting.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Net.Http.WebRequest.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Http.WebHost.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Mvc.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.Razor.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Deployment.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\bin\System.Web.WebPages.Razor.xml
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.Resources.Resources.resources
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\en-us\PhoneBookWeb.resources.dll
+C:\VS\PhoneBook\PhoneBookWeb\PhoneBookWeb\PhoneBookWeb\obj\Debug\PhoneBookWeb.pdb

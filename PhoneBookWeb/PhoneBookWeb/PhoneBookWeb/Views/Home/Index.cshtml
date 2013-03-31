@@ -1,0 +1,40 @@
+﻿@model IEnumerable<PhoneBookWeb.Model.PhoneBookRecord>
+
+@section Header
+{
+    @PhoneBookWeb.Resources.Resources.PhoneBook
+}
+
+@section Home
+{
+    @if(!string.IsNullOrWhiteSpace(ViewBag.Home))
+        {
+        @Html.ActionLink((string)PhoneBookWeb.Resources.Resources.Home, "Index", "Home")
+        }
+}
+
+@section DetailHeader
+{
+    @using (Html.BeginForm()){    
+        <p> 
+            @PhoneBookWeb.Resources.Resources.Search:
+            @Html.TextBox("SearchString")    
+            <input type="submit" value=@PhoneBookWeb.Resources.Resources.Find />
+        </p> 
+    } 
+}
+
+@section About
+{
+    @Html.ActionLink((string)PhoneBookWeb.Resources.Resources.About, "About", "Home")
+}
+
+
+@foreach (var item in Model)
+{
+   <li>
+       <p> @Html.DisplayFor(modelItem => item.Man.Name)</p>
+       <p> @Html.ActionLink(PhoneBookWeb.Resources.Resources.Details, "Details", new { id = item.Id })</p>
+  </li>
+            
+}
