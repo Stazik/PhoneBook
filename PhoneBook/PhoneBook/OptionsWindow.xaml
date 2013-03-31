@@ -1,0 +1,11 @@
+﻿<Window x:Class="PhoneBook.Options"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:res="clr-namespace:PhoneBook.Properties"
+        Title="{x:Static res:Resources.Welcome}" Height="150" Width="300" Icon="/PhoneBook;component/SupIco.ico" WindowStartupLocation="CenterScreen" MinWidth="300" MinHeight="150">
+    <Grid>
+        <Label Content="{x:Static res:Resources.DbServer}" Height="28" HorizontalAlignment="Left" Margin="12,20,0,0" Name="LabelConnect" VerticalAlignment="Top" Width="82" />
+        <TextBox Height="23" Margin="100,20,12,0" Name="TextBoxConnectionString" VerticalAlignment="Top" DataContext="{Binding}" />
+        <Button Content="{x:Static res:Resources.Login}" Height="38" HorizontalAlignment="Right" Margin="0,0,12,8" Name="ButtonLogin" VerticalAlignment="Bottom" Width="94" Click="ButtonLogin_Click" />
+    </Grid>
+</Window>
